@@ -1,5 +1,4 @@
 # module5
-All files are located in attempt 1
 
 What good is data without a good plot to tell the story?
 
